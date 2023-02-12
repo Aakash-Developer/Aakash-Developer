@@ -47,5 +47,7 @@ Languages and Tools:
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
     </a>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats)
 
 **Aakash-Developer/Aakash-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
