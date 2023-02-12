@@ -7,13 +7,13 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Aakash-developer/count.svg)
-
+<!-- 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aakash-Developer&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Aakash-Developer&column=5"/>
   </a>
-</div>
+</div> -->
 
 Languages and Tools: 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -42,16 +42,3 @@ Languages and Tools:
     </a>
 
 **Aakash-Developer/Aakash-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
-
--->
