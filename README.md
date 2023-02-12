@@ -8,9 +8,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/Aakash_Macwan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-3074481a3/)](https://www.linkedin.com/in/aakash-3074481a3/)
 
 
-I'm
-Web Developer
-I have a wide range of skills that include front-end development  ( HTML5, CSS3, Javascript, jQuery, Responsive, Angular14)
+<em>I'm<br>
+Web Developer<br>
+I have a wide range of skills that include front-end development  ( HTML5, CSS3, Javascript, jQuery, Responsive, Angular14)<em>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Aakash-developer/count.svg)
@@ -22,7 +22,7 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
   </a>
 </div> -->
 
-Languages and Tools:<br>
+<em>Languages and Tools:</em><br>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
@@ -51,4 +51,4 @@ Languages and Tools:<br>
 <!-- ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
 
-**Aakash-Developer/Aakash-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<em>**Aakash-Developer/Aakash-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</em>
