@@ -6,7 +6,7 @@ Web Developer
 I have a wide range of skills that include front-end development  ( HTML5, CSS3, Javascript, Responsive, Angular14)
 
 
-![Visitor Count]([https://profile-counter.glitch.me/aakashdeveloper/count.svg])
+![Visitor Count]([https://profile-counter.glitch.me/Aakash-Developer/count.svg])
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
