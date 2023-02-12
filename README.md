@@ -54,7 +54,7 @@ Languages and Tools:
 
 
 
-![(https://activity-graph.herokuapp.com/graph?username=Aakash-Developer&theme=react-dark&area=true)]
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=Aakash-Developer&theme=react-dark&area=true) -->
 <!--
 **Aakash-Developer/Aakash-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
