@@ -1,5 +1,15 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash_Macwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-3074481a3/)](https://www.linkedin.com/in/aakash-3074481a3/)
+[![Linkedin Badge](https://img.shields.io/badge/Aakash_Macwan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-3074481a3/)](https://www.linkedin.com/in/aakash-3074481a3/)
+[![Linkedin Badge](https://img.shields.io/badge/akkimacs.official-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/akkimacs.official/)](https://www.instagram.com/akkimacs.official/)
+
+
+
 
 I'm
 Web Developer
