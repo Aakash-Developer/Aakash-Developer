@@ -50,5 +50,3 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
     
 <!-- ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
-
-<em>**Aakash-Developer/Aakash-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</em>
