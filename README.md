@@ -23,6 +23,7 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
 </div> -->
 
 <em>Languages and Tools:</em><br>
+<div>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
@@ -36,7 +37,7 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"        a/>
     </a>
     <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40" />
@@ -62,6 +63,7 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
    <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40" height="40" />
     </a>
+<div>
 
    
     
