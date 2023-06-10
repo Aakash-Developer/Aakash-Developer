@@ -44,7 +44,7 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
     </a>
     
