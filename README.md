@@ -66,5 +66,5 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
 <div>
 
    
- ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats)
+<!--  ### :fire: My Stats : -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
