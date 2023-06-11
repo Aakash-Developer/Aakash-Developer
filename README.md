@@ -23,7 +23,7 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
 </div> -->
 
 <em>Languages and Tools:</em><br>
-<div>
+<div style="margin-bottom:10px">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
@@ -65,6 +65,10 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
     </a>
 <div>
 
+  
+  
    
 <!--  ### :fire: My Stats : -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
