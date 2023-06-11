@@ -52,9 +52,10 @@ I'm currently working on honing my skills in full-stack web development, specifi
     
 <!--  ### :fire: My Stats : -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+    
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
-  
+    
+    
 ### 📫 How to reach me
 I'm always interested in connecting with fellow developers, collaborating on exciting projects, or discussing new ideas. You can reach out to me via:
 Email: Aakash20899macwan@gmail.com | LinkedIn: [Aakash Macwan](https://www.linkedin.com/in/aakash-3074481a3/)
