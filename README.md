@@ -59,6 +59,6 @@ I'm currently working on honing my skills in full-stack web development, specifi
 I'm always interested in connecting with fellow developers, collaborating on exciting projects, or discussing new ideas. You can reach out to me via:
 Email: Aakash20899macwan@gmail.com | LinkedIn: [Aakash Macwan](https://www.linkedin.com/in/aakash-3074481a3/)
   
-Feel free to reach out—I'd be happy to chat!
+Feel free to reach out—I'd be happy to chat! <br>
 Thank you for visiting my GitHub profile! Feel free to explore.
   
