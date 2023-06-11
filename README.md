@@ -1,26 +1,8 @@
-<!-- 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
- -->
-### Hi Developers 👋
+### Hi there, I'm Aakash Macwan! 👋
+### 👨‍💻 Full Stark Developer | 🌍 Open-Source Enthusiast | 🚀 Tech Evangelis
 [![Linkedin Badge](https://img.shields.io/badge/Aakash_Macwan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-3074481a3/)](https://www.linkedin.com/in/aakash-3074481a3/)
 
-
-<em>I'm<br>
-Web Developer<br>
-I have a wide range of skills that include front-end development  ( HTML5, CSS3, Javascript, jQuery, Responsive, Angular14)<em>
-
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/Aakash-developer/count.svg) -->
-<!-- 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aakash-Developer&column=5"/>
-  </a>
-</div> -->
+Welcome to my GitHub profile! I'm a passionate Full Stark developer with a strong focus on creating robust and efficient web applications. I thrive on challenging projects that push the boundaries of what's possible in web development. My goal is to craft clean and scalable code, delivering exceptional user experiences while embracing the latest technologies and best practices.
 
 <em>Languages and Tools:</em><br>
 <div style="margin-bottom:10px">
@@ -65,10 +47,18 @@ I have a wide range of skills that include front-end development  ( HTML5, CSS3,
     </a>
 <div>
 
-  
-  
-   
+  ### 🔭 What I'm currently working on
+I'm currently working on honing my skills in full-stack web development, specifically diving deeper into the Stark stack, which encompasses JavaScript, TypeScript, Angular, React, and Node.js. Additionally, I'm exploring serverless architectures, microservices, and containerization to build scalable and resilient applications.
+    
 <!--  ### :fire: My Stats : -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
+  
+### 📫 How to reach me
+I'm always interested in connecting with fellow developers, collaborating on exciting projects, or discussing new ideas. You can reach out to me via:
+  
+### Email: Aakash20899macwan@gmail.com | LinkedIn: [Aakash Macwan](https://www.linkedin.com/in/aakash-3074481a3/)
+  
+Feel free to reach out—I'd be happy to chat!
+  
