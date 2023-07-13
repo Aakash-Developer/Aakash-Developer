@@ -1,5 +1,5 @@
 ### Hi there, I'm Aakash Macwan! 👋
-### 👨‍💻 Full Stark Developer | 🌍 Open-Source Enthusiast | 🚀 Tech Evangelis
+### 👨‍💻 Full Stark Developer 
 [![Linkedin Badge](https://img.shields.io/badge/Aakash_Macwan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-3074481a3/)](https://www.linkedin.com/in/aakash-3074481a3/)
 
 Welcome to my GitHub profile! I'm a passionate Full Stark developer with a strong focus on creating robust and efficient web applications. I thrive on challenging projects that push the boundaries of what's possible in web development. My goal is to craft clean and scalable code, delivering exceptional user experiences while embracing the latest technologies and best practices.
@@ -51,7 +51,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stark developer with a stron
 I'm currently working on honing my skills in full-stack web development, specifically diving deeper into the Stark stack, which encompasses JavaScript, TypeScript, Angular, React, and Node.js. Additionally, I'm exploring serverless architectures, microservices, and containerization to build scalable and resilient applications.
     
 <!--  ### :fire: My Stats : -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakash-Developer)](https://git.io/streak-stats) -->
     
