@@ -63,3 +63,5 @@ Feel free to reach out—I'd be happy to chat! <br>
 Thank you for visiting my GitHub profile! Feel free to explore.
   
 https://chatgpt.com/share/674be146-c788-800b-9b32-23f5d02b9432
+
+https://chatgpt.com/share/674c7667-4db4-800b-bd7f-bdb94cd7b970
