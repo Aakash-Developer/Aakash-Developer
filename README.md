@@ -65,3 +65,44 @@ Thank you for visiting my GitHub profile! Feel free to explore.
 https://chatgpt.com/share/674be146-c788-800b-9b32-23f5d02b9432
 
 https://chatgpt.com/share/674c7667-4db4-800b-bd7f-bdb94cd7b970
+
+
+
+const express = require("express");
+const multer = require("multer");
+const path = require("path");
+
+const app = express();
+const port = 8000;
+
+app.use("/uploads", express.static("uploads"));
+
+const storage = multer.diskStorage({
+  destination: (req, file, callback) => {
+    callback(null, "uploads/");
+  },
+  filename: (req, file, callback) => {
+    callback(null, file.originalname);
+  },
+});
+
+const upload = multer({ storage: storage });
+
+app.post("/profile", upload.single("avatar"), (req, res) => {
+  if (!req.file) {
+    return res.status(400).json({ status: 0, msg: "No file uploaded" });
+  }
+
+  const fullImageUrl = `${req.protocol}://${req.get("host")}/${req.file.path.replace(/\\/g, "/")}`;
+
+  res.json({
+    status: 1,
+    msg: "Image uploaded successfully",
+    image: fullImageUrl,
+  });
+});
+
+app.listen(port, () => {
+  console.log(`Server listening on http://localhost:${port}`);
+});
+
